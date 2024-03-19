@@ -1,2 +1,2 @@
 #!/bin/bash
-ji./
+echo 'Hello world'
