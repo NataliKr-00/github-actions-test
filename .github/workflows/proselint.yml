@@ -31,4 +31,4 @@ jobs:
           JSON
 
       - name: check prose
-        run: a=`git ls-files '*.md'` && proselint $a README
+        run: a=`git ls-files '*.md'` && proselint $a
